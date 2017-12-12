@@ -1,0 +1,19 @@
+{
+  "name": "genius-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Genius for lyrics, duh.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "author": "Kladdkaka",
+  "license": "LMAOILOVEGENIUS",
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "fs-extra": "^5.0.0",
+    "lyricist": "^2.2.2",
+    "meow": "^4.0.0",
+    "p-fun": "^1.0.0",
+    "standard": "^10.0.3"
+  }
+}
